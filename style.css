@@ -1,0 +1,36 @@
+.wrapper {
+    background-color: darkblue;
+    font-weight: 500;
+}
+
+.none {
+    color: white;
+    margin-block-start: 2%;
+}
+
+button {
+    background-color: blue;
+    padding: 2px;
+}
+
+.main {
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.caption {
+    font-size: 20px;
+}
+
+.fa {
+    font-size: 18px !important;
+}
+
+.foter {
+    color: white;
+    border: 2px gray solid;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
